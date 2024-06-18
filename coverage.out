@@ -1,0 +1,5 @@
+mode: atomic
+example/hello/bab55.go:9.33,11.2 1 2
+example/hello/bab55.go:13.31,15.2 1 0
+example/hello/bab55.go:17.35,19.2 1 0
+example/hello/hello.go:5.13,7.2 1 0
